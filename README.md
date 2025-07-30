@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on delivery_app using flutter framework
+- 🌱 I’m currently learning nodejs
+- 📫 How to reach me: let's connect on linkedin ! : https://www.linkedin.com/public-profile/settings
 <!--
 **Ahmed4r/Ahmed4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
