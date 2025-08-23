@@ -1,7 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on delivery_app using flutter framework
-- 🌱 I’m currently learning nodejs
-- 📫 How to reach me: let's connect on linkedin ! : https://www.linkedin.com/public-profile/settings
+- 🔭 I’m currently working on cal kam ai using flutter framework , api
+- 🌱 I’m currently working to make a cool apps
+- 📫 How to reach me: let's connect on linkedin ! : www.linkedin.com/in/ahmedradyhegazy
+
+
 <!--
 **Ahmed4r/Ahmed4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
