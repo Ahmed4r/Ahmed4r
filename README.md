@@ -48,4 +48,4 @@
 
 ## ⚡ GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedrady&show_icons=true&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
