@@ -1,18 +1,20 @@
-# 👋 Hi, I'm Ahmed Hegazy
+# 👋 Hi, I'm Ahmed Hijazi
 
 **Flutter Mobile Developer | Passionate about building clean & scalable apps**
 
 ---
 
-## 🛠 Skills & Tech Stack
+## 🛠 Tech Stack
 
-- **Languages:** Dart, Python
-- **Mobile Development:** Flutter, Firebase, Supabase
-- **State Management:** Cubit / Bloc, Provider, Riverpod
-- **Databases:** SQLite, Hive, Supabase
-- **APIs & Networking:** REST, GraphQL, Pexels API, Movies API
-- **Other Tools:** Git, GitHub Actions, Codemagic, Figma
-- **AI / ML:** Naive Bayes Spam Detection, basic AI models
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest-api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
@@ -35,17 +37,11 @@
 
 - [LinkedIn](https://www.linkedin.com/in/ahmedradyhegazy)
 - [GitHub](https://github.com/ahmedrady)  
-- Email: ahmedrady03@gmail.com
-
----
-
-## 💡 Fun Facts
-
-- 🏗️ I love building apps that solve real-life problems  
-- 📚 Learning something new every day in Flutter & AI
+- Email: ahmed.rady@example.com
 
 ---
 
 ## ⚡ GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed4r&show_icons=true&theme=dark)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedrady&show_icons=true&theme=radical)
+
