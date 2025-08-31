@@ -37,7 +37,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/ahmedradyhegazy)
 - [GitHub](https://github.com/ahmed4r)  
-- Email: ahmed.rady@example.com
+- Email: ahmedrady03@gmail.com
 
 ---
 
