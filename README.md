@@ -16,27 +16,9 @@
 
 ---
 
-## 📱 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **To-Do App** | Task management app with CRUD , file summarization | Flutter, gemini |
-| **E-Commerce App** | Online store with user auth & cart and admin dashboard | Flutter, Supabase, REST API |
-| **Wallpaper App** | Browse & download wallpapers from Pexels API | Flutter, Pexels API |
-| **Movies App** | Movie listing & details from external API | Flutter, REST API |
-| **Daily Money Tracker** | Track daily expenses entered by user | Flutter, Hive |
-| **MP3 Quran Player** | Stream Quranic surahs from multiple reciters | Flutter, Audio Players, API |
-| **Local MP3 Player** | Play local audio files on device | Flutter, audioplayers | 
-| **Spam Detection** | Classify text as spam using Naive Bayes | Python, scikit-learn, Flask API |
-| **BMI Calculator App** | Calculate Body Mass Index (BMI) with user input | Flutter |
-
-
----
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ahmedradyhegazy)
-- [GitHub](https://github.com/ahmed4r)  
 - Email: ahmedrady03@gmail.com
 
 ---
