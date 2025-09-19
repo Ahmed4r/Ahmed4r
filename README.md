@@ -20,10 +20,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/ahmedradyhegazy)
 - Email: ahmedrady03@gmail.com
-
----
-
-## ⚡ GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed4r&show_icons=true&theme=dark)
-
