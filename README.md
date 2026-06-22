@@ -30,7 +30,6 @@ class AhmedHegazy extends FlutterDeveloper {
   final String location   = "Alexandria, Egypt 🇪🇬";
   final String degree     = "B.Sc. Computer Science & AI — Pharos University";
   final String role       = "Flutter Instructor @ Black Horse Courses";
-  final String current    = "Applying to German MSc CS programs 🇩🇪";
 
   List<String> get passions => [
     "Clean Architecture",
@@ -68,34 +67,6 @@ class AhmedHegazy extends FlutterDeveloper {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 🏗️ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🫀 BioSync AI</h3>
-      <p>AI-powered cross-platform health assistant with a custom ESP32 smartwatch. Monitors heart rate & steps via BLE, with voice-enabled AI conversations in Arabic & English.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-      </p>
-      <p><em>Clean Architecture · BLoC/Cubit · RTL Localization · BLE</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📺 MobTV</h3>
-      <p>Flutter streaming app with TMDB API integration, advanced ad-blocking, Cloudflare handling, Picture-in-Picture support, and a polished favorites & discovery UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TMDB-01D277?style=flat-square&logo=themoviedatabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-      </p>
-      <p><em>InAppWebView · PiP Mode · Skeleton Loading · Pagination</em></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
