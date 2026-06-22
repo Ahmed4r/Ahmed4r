@@ -30,12 +30,10 @@ class AhmedHegazy extends FlutterDeveloper {
   final String location   = "Alexandria, Egypt 🇪🇬";
   final String degree     = "B.Sc. Computer Science & AI — Pharos University";
   final String role       = "Flutter Instructor @ Black Horse Courses";
-  final String current    = "Applying to German MSc CS programs 🇩🇪";
-
+ 
   List<String> get passions => [
     "Clean Architecture",
     "AI-powered mobile apps",
-    "Embedded systems (ESP32)",
     "Teaching & mentoring",
   ];
 }
