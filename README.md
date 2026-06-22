@@ -68,20 +68,6 @@ class AhmedHegazy extends FlutterDeveloper {
 
 ---
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed4r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ahmed's GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed4r&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmed4r&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🌐 Connect with Me
 
