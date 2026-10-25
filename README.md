@@ -1,88 +1,91 @@
+
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/ec/b8/e3/ecb8e3d7c474ea1aef47dd2378054a27.jpg" width="100%" style="border-radius: 12px;" alt="Ahmed Hegazy Banner"/>
-</div>
+
+# Hey, I'm Ahmed! 👋
+
+### Computer Science Master's Student | Flutter Developer | Backend Developer
+
+🎓 Master's student at the University of Passau, Germany 🇩🇪
+
+💻 Building mobile applications and learning scalable backend systems.
+
+🚀 Currently exploring **Spring Boot, REST APIs, PostgreSQL, and Microservices**.
+
+🌍 Open to student developer opportunities in Germany.
 
 <br/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=02569B&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmed+%F0%9F%91%8B;Flutter+Mobile+Developer;Clean+Architecture+Advocate;AI+%26+Mobile+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
+</a>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed4r&label=Profile+Views&color=02569B&style=flat-square" alt="profile views" />
-  <a href="https://www.linkedin.com/in/ahmedradyhegazy">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ahmedrady03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ahmedrady03-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```dart
-class AhmedHegazy extends FlutterDeveloper {
-  final String name       = "Ahmed Rady Hegazy";
-  final String location   = "Alexandria, Egypt 🇪🇬";
-  final String degree     = "B.Sc. Computer Science & AI — Pharos University";
-  final String role       = "Flutter Instructor @ Black Horse Courses";
-
-  List<String> get passions => [
-    "Clean Architecture",
-    "AI-powered mobile apps",
-    "Embedded systems (ESP32)",
-    "Teaching & mentoring",
-  ];
-}
-```
+- 🎓 Studying **M.Sc. Computer Science** at the University of Passau.
+- 📱 Experienced in **Flutter mobile application development**.
+- ☕ Currently strengthening my Java and Spring Boot skills.
+- 🗄️ Interested in backend engineering, databases, and system design.
+- 🧠 Always learning, building, and improving.
+- 📫 Reach me through my GitHub profile.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC%2FCubit-5C6BC0?style=for-the-badge&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white)
-
-### ☁️ Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🤖 AI & Integrations
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-00A3E0?style=for-the-badge&logo=groq&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs_STT%2FTTS-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
-
-### 🛠 Tools & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Backend & Databases
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+
+### Mobile Development & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
+## 🚀 Featured Projects
 
-## 🌐 Connect with Me
+### 📱 Flutter Applications
+Mobile applications built with Flutter, focusing on clean UI,
+state management, and backend integration.
+
+### ☕ Spring Boot Backend
+Building RESTful APIs using Java, Spring Boot, PostgreSQL,
+and modern backend development practices.
+
+> More projects coming soon!
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmedradyhegazy">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Rady_Hegazy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ahmedrady03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ahmedrady03@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=80&section=footer" width="100%"/>
+
+### 💡 "Building today what I want to master tomorrow."
+
+⭐ Thanks for visiting my profile!
+
 </div>
