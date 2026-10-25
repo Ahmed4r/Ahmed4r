@@ -15,10 +15,6 @@
 
 <br/>
 
-<a href="https://github.com/Ahmed4r">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed4r&style=for-the-badge&color=blue" alt="Profile Views"/>
-</a>
-
 </div>
 
 ---
