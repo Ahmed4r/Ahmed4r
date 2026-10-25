@@ -64,24 +64,5 @@ and modern backend development practices.
 
 > More projects coming soon!
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Building today what I want to master tomorrow."
-
-⭐ Thanks for visiting my profile!
 
 </div>
